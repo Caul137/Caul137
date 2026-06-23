@@ -9,7 +9,7 @@
 <img src="https://streak-stats.demolab.com?user=caul137&theme=tokyonight" />
 <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 
-   <img src="https://skillicons.dev/icons?i=php,python,laravel,react,mysql,docker,git,terraform,js,ts,html,tailwind,node,prisma,vite,sklearn,pytorch,postgres,kubernetes,graphql,grafana,figma,ansible,aws,arduino,githubactions,nginx,unity,windows,linux" />
+   <img src="https://skillicons.dev/icons?i=php,python,laravel,react,mysql,docker,git,terraform,js,ts,html,tailwind,nodejs,prisma,vite,sklearn,pytorch,postgres,kubernetes,graphql,grafana,figma,ansible,aws,arduino,githubactions,nginx,unity,windows,linux" />
 
 
  
