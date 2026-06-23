@@ -1,7 +1,6 @@
 
-<h2 > Markdown Engineer </h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Cauã!;Desenvolvedor+Full+Stack;Python+e+Machine+Learning;Laravel+e+React" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Markdown Engineer!;" />
 
 
 
