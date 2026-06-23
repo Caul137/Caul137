@@ -4,16 +4,11 @@
    <a href="https://github.com/caul37">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caul137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caul137&layout=compact&langs_count=6&theme=tokyonight"/>
-
-    <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
+   <img src="https://github-profile-trophy.vercel.app/?username=caul137&theme=tokyonight&row=1" />
+   <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 </div>
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,react,typescript,mysql,docker,git,javascript,html5,css3,typescript" />
 
-
-
-
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
