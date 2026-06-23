@@ -1,6 +1,10 @@
 
 <h2 > Markdown Engineer </h2>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Cauã!;Desenvolvedor+Full+Stack;Python+e+Machine+Learning;Laravel+e+React" />
+
+
+
 <div>
    <a href="https://github.com/caul37">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caul137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
