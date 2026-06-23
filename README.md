@@ -4,10 +4,10 @@
    <a href="https://github.com/caul37">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caul137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caul137&layout=compact&langs_count=6&theme=tokyonight"/>
-
-   <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
-
 </div>
+
+<img src="https://streak-stats.demolab.com?user=caul137&theme=tokyonight" />
+   <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 
 
 <div style="display: inline_block"><br>
