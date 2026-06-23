@@ -8,7 +8,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=caul137&theme=tokyonight&row=1" />
 </div>
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,react,typescript,mysql,docker,git,javascript,html5,css.typescript" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,react,typescript,mysql,docker,git,javascript,html5,css3,typescript" />
 <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 
 
