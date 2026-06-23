@@ -8,14 +8,9 @@
    <img src="https://github-profile-trophy.vercel.app/?username=caul137&theme=tokyonight&row=1" />
 </div>
 
-<img src="https://skillicons.dev/icons?i=python,laravel,react,typescript,mysql,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,react,typescript,mysql,docker,git,javascript,html5,css.typescript" />
 <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 
-<a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caul137&theme=tokyo-night" />
 
 
     
