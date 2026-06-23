@@ -13,7 +13,7 @@
 
 <img src="https://skillicons.dev/icons?i=php,python,laravel,react,mysql,docker,git,terraform,js,ts,html,tailwind,nodejs,prisma,vite,sklearn,pytorch,postgres,kubernetes,graphql,grafana,figma,ansible,aws,arduino,githubactions,nginx,unity,windows,linux" />
    
-<img src="https://leetcard.jacoblin.cool/Cau137" />
+<img src="https://leetcard.jacoblin.cool/caul137" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caul137&theme=tokyonight" />
 
