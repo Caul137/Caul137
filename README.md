@@ -12,7 +12,20 @@
 <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
 
 <img src="https://skillicons.dev/icons?i=php,python,laravel,react,mysql,docker,git,terraform,js,ts,html,tailwind,nodejs,prisma,vite,sklearn,pytorch,postgres,kubernetes,graphql,grafana,figma,ansible,aws,arduino,githubactions,nginx,unity,windows,linux" />
+   
+<img src="https://leetcard.jacoblin.cool/Cau137" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caul137&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caul137&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caul137&theme=tokyonight" />
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caul137/caul137/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
  
 <br>
