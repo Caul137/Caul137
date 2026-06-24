@@ -45,6 +45,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caul137&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
