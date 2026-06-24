@@ -94,17 +94,10 @@
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caul137&color=blueviolet" />
-</p>
 
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caul137/caul137/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/caul137/caul137/output/github-contribution-grid-snake-dark.svg" />
