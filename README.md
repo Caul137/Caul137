@@ -64,7 +64,7 @@
 
 ---
 
-## 📈 Activity & Productivity
+## 📈LeetCode
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caul137" /> -->
 
