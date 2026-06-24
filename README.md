@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=70A5FD&center=true&vCenter=true&width=1000&lines=Markdown+Engineer!;👋+Full+Stack+developer" />
 
 
-<div>
+<!-- <div>
    <a href="https://github.com/caul37">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caul137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caul137&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -12,7 +12,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caul137" /> -->
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+<!-- <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 <img src="https://skillicons.dev/icons?i=python,laravel,react,docker,mysql,git,linux,pytorch" />
 
@@ -35,6 +35,5 @@
   <img src="https://raw.githubusercontent.com/caul137/caul137/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
- 
-<br>
+<br> --> -->
 
