@@ -68,9 +68,9 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caul137" /> -->
 
-<p align="center">
+<a align="center" href="https://leetcode.com/u/caul137/">
   <img src="https://leetcard.jacoblin.cool/caul137" />
-</p>
+</a>
 
 ---
 
