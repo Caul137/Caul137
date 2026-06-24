@@ -1,8 +1,8 @@
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=70A5FD&center=true&vCenter=true&width=1000&lines=Markdown+Engineer!;Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=70A5FD&center=true&vCenter=true&width=1000&lines=Markdown+Engineer!;Full+Stack" />
 
-
+<
 
 <div>
    <a href="https://github.com/caul37">
