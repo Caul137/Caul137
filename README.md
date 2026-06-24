@@ -48,7 +48,7 @@
 <br>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=caul137&color=gray" />
+   <img src="https://komarev.com/ghpvc/?username=caul137&color=black" />
 </p>
 
 
