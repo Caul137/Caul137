@@ -12,8 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caul137" />
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Caul137)
-
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 <img src="https://skillicons.dev/icons?i=python,laravel,react,docker,mysql,git,linux,pytorch" />
