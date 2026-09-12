@@ -87,7 +87,7 @@
 
 ### Main Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,laravel,react,docker,mysql,git,linux,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,laravel,react,docker,mysql,git,linux,php" />
 </p>
 
 ### Tools
